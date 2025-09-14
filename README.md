@@ -7,4 +7,4 @@ Tracklogs are from March 22, 2025 to September 8, 2025. Missing airports before 
 * SNS
 * 1Q4
 
-![output](outputs.png)
+![output](output.png)
